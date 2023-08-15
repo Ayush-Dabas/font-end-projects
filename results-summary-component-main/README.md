@@ -6,6 +6,7 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+    The project is build in vanilla HTML and css
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
