@@ -1,0 +1,7 @@
+body{
+    display: flex;
+}
+
+.one{
+    background-color: hsla(252, 100%, 67%, 0.7);
+}
